@@ -2,7 +2,7 @@
   "name": "valueadding/toolbox",
   "description": "its a toolbox what more do you need to know?",
   "minimum-stability": "stable",
-  "license": "GNU GENERAL PUBLIC LICENSE Version 3",
+  "license": "GPL-3.0-only",
   "authors": [
     {
       "name": "msmit",
