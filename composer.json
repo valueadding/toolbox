@@ -1,0 +1,20 @@
+{
+  "name": "valueadding/toolbox",
+  "description": "its a toolbox what more do you need to know?",
+  "minimum-stability": "stable",
+  "license": "GNU GENERAL PUBLIC LICENSE Version 3",
+  "authors": [
+    {
+      "name": "msmit",
+      "email": "m.smit@valueadding.nl"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Toolbox\\": "src/Toolbox/"
+    }
+  }
+}
